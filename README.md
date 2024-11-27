@@ -95,9 +95,9 @@ This project is a simple quiz application built using the *Django framework* and
 
 ## Project Structure
 
-
+```
 Quiz_App/
-├── Quiz_App/              # Main Django project folder
+├── Quiz_App/             # Main Django project folder
 │   ├── settings.py       # Django settings file
 │   ├── urls.py           # URL routing
 │   ├── wsgi.py           # WSGI configuration
@@ -108,7 +108,7 @@ Quiz_App/
 │   ├── admin.py          # Admin configuration
 ├── manage.py             # Django management script
 ├── requirements.txt      # Python dependencies
-
+```
 
 ## Key Files
 
